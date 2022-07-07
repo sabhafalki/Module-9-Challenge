@@ -36,7 +36,7 @@ The average temperature recorded in December is about 71 degrees F and it is app
 December Recorded Temps Visualization (Temperature and Frequency)<br>
 ![June](/surfs_up/Image/dec_hist.png) <br>
 <br><br>
-### Analysis  ###
+### Analysis Key Differences in Weather Detween June and December ###
 The Analysis for both months June and December are as follows:<br>
 ![june_dec_temps](/surfs_up/Image/june_dec_temps.png) <br>
 - The average recorded temperature in June is about 75 degrees F, 4 degrees higher than the average temp in December.o	This represents a -5% change in average temperature from June to December.
