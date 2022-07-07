@@ -51,7 +51,9 @@ The Analysis for both months June and December are as follows:<br>
 ![station](/surfs_up/Image/station.png) <br>
 - There are other factors that we have to keep in mind to select the location apart from temperature such as precipitation, wave swells and wind condition.
 ## Further Analysis ##
-- The following depicts the analysis conducted for temperatue trends for entire year.
-- 
+The following depicts the analysis conducted for temperatue trends for entire year.<br>
 ![Whole_year_temp](/surfs_up/Image/Whole_year_temp.png) <br>
+- The analysis representes that the temperatue between april and december is more favourable in entire year. As the temperatue is warmer.
+- According to our analysis August is the most favourable month.<br>
+The following depicts the visual repesentation for the average temperature by month:<br>
 ![avg_temp](/surfs_up/Image/avg_temp.png) <br>
