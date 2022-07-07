@@ -55,7 +55,7 @@ The following depicts the analysis conducted for temperatue trends for entire ye
 ![Whole_year_temp](/surfs_up/Image/Whole_year_temp.png) <br>
 - The analysis representes that the temperatue between april and december is more favourable in entire year. As the temperatue is warmer.
 - According to our analysis August is the most favourable month.<br>
-<br>
+
 The following depicts the visual repesentation for the average temperature by month:<br>
 ![avg_temp](/surfs_up/Image/avg_temp.png) <br>
 <br><br>
