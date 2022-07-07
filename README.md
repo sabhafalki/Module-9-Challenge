@@ -31,7 +31,7 @@ The data gives summary statistics for the temperature trends in December form th
 The following depicts the December temps DataFrame:<br>
 ![dec_temps](/surfs_up/Image/dec_temps.png) <br>
 
-The average temperature recorded in December is about 71 degrees F and it is approximately 21 degrees c. By this analysis,It is clear with that December is also favourable month for the sustainability business of surfing and ice cream in the year. We can analyze that Oahu is a great location for the new surf shop.<br>
+The average temperature recorded in December is about 71 degrees F and it is approximately 22 degrees c. By this analysis,It is clear with that December is also favourable month for the sustainability business of surfing and ice cream in the year. We can analyze that Oahu is a great location for the new surf shop.<br>
 
 December Recorded Temps Visualization (Temperature and Frequency)<br>
 ![June](/surfs_up/Image/dec_hist.png) <br>
@@ -40,12 +40,8 @@ December Recorded Temps Visualization (Temperature and Frequency)<br>
 The Analysis for both months June and December are as follows:<br>
 ![june_dec_temps](/surfs_up/Image/june_dec_temps.png) <br>
 - The average recorded temperature in June is about 75 degrees F, 4 degrees higher than the average temp in December.o	This represents a -5% change in average temperature from June to December.
-- 
+- June had a low temperature of 64°F and a high temperature of 85°F whereas December had a low temperature of 56°F and a high temperature of 83°F. 
+- June and December had roughly similar standard deviations. June's standard deviation of 3.26 and December's standard deviation of 3.75 tells  that their temperature records are concentrated around both of their average temperatures. which indicates that these two seasons had relatively. warm temperatures.
 
 ## Summary ##
-The Movie DataFrame consist of the movies table and ratings table in the SQL database, by adding elapsed time to the database.
-The following depicts the movies table in SQL database.<br>
-![movies_query](/resources/movies_query.png)<br>
-The following depicts the ratings table in SQL database.<br>
-![ratings_query](/resources/ratings_query.png)<br>
-<br><br>
+
