@@ -1,6 +1,6 @@
 # Module-9-Challenge  Surfs_up
 Advanced Data Storage and Retrieval with Jupyter Notebook, SQLite and SQLAlchemy.<br>
-
+![ice_cream](/surfs_up/Image/ice_cream.png) <br>
 
 # Overview of Project #
 The purpose of this Project is to analyze the weather trends in **Oahu,Hawaii**. In order, to open a Surf and Shake shop that severes surf boards and ice cream to tourist and if the shop on Oahu does well, they could expand to other islands. Specifically, summary statistics of temperature trends data has been requested for the months of June and December, in order to determine if the surf and ice cream shop business is sustainable year-round.
