@@ -50,3 +50,5 @@ The Analysis for both months June and December are as follows:<br>
 - The summary statistics of temperatures recorded by station for each month.This can help determine geopgraphically where in Oahu to build shop. By comparing the variances in temperatures and the frequencies recorded, we can select the appropriate loction.<br>
 ![station](/surfs_up/Image/station.png) <br>
 ## Further Analysis ##
+![Whole_year_temp](/surfs_up/Image/Whole_year_temp.png) <br>
+![avg_temp](/surfs_up/Image/avg_temp.png) <br>
