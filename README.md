@@ -42,7 +42,10 @@ The Analysis for both months June and December are as follows:<br>
 ![june_dec_temps](/surfs_up/Image/june_dec_temps.png) <br>
 - The average recorded temperature in June is about 75 degrees F, 4 degrees higher than the average temp in December.o	This represents a -5% change in average temperature from June to December.
 - June had a low temperature of 64°F and a high temperature of 85°F whereas December had a low temperature of 56°F and a high temperature of 83°F. 
-- June and December had roughly similar standard deviations. June's standard deviation of 3.26 and December's standard deviation of 3.75 tells  that their temperature records are concentrated around both of their average temperatures. which indicates that these two seasons had relatively. warm temperatures.
+- June and December had roughly similar standard deviations. June's standard deviation of 3.26 and December's standard deviation of 3.75 tells  that their temperature records are concentrated around both of their average temperatures. 
 
 ## Summary ##
-
+- The summary Statistics for both the months June and December indicates that these two seasons had relatively warm temperatures and are good for business.
+-The summary statistics of temperatures recorded by station for each month.This can help determine geopgraphically where in Oahu to build shop. By comparing the variances in temperatures and the frequencies recorded, we can select the appropriate loction.<br>
+![station](/surfs_up/Image/station.png) <br>
+## Further Analysis ##
